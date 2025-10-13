@@ -1,3 +1,10 @@
+# StudySync
+
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-yellow?logo=firebase)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-green)
+
+A collaborative study app built with Flutter and Firebase, featuring real-time sessions, notes, chat, and more.
 
 ---
 
